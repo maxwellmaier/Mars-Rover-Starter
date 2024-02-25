@@ -54,4 +54,4 @@ let response = rover.receiveMessage(message);
 
 console.log(rover);
 console.log(response);
-console.log(JSON.stringify(response, null, 2));
+
